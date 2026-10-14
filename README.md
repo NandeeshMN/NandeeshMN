@@ -41,59 +41,6 @@ Hello! I'm **Nandeesh M N**, an MCA graduate from Hubballi, Karnataka, India.
 
 ---
 
-## 🛠️ Technical Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js" alt="Python and JavaScript"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express, Flask"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="MySQL, MongoDB, Firebase"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Focusing On
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=flat-square&logo=code&logoColor=white" alt="Full Stack Development"/>
-
-</td>
-</tr>
-</table>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -199,16 +146,6 @@ Continuously building practical applications and exploring modern software devel
      https://github.com/Platane/snk
      Save the generated file to the output branch.
 -->
-
----
-
-## 🎯 Currently Focused On
-
-- 📚 Strengthening ReactJS and modern JavaScript.
-- 🧩 Building responsive and accessible web interfaces.
-- 🔧 Developing secure REST APIs with NodeJS and ExpressJS.
-- 🗄️ Improving database design and query optimization.
-- 🌱 Learning best practices for clean, maintainable, and scalable code.
 
 ---
 
