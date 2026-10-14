@@ -96,7 +96,12 @@ Hello! I'm **Nandeesh M N**, an MCA graduate from Hubballi, Karnataka, India.
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 1. KMA Article Publishing Platform
+
 **Tech Stack:** ReactJS, TypeScript, NodeJS, ExpressJS, Tailwind CSS, Firebase Firestore
 
 - Developed a full-stack research article publishing platform.
@@ -106,14 +111,24 @@ Hello! I'm **Nandeesh M N**, an MCA graduate from Hubballi, Karnataka, India.
 
 🔗 [Visit Live Website](https://bkma.in)
 
+</td>
+<td width="50%" valign="top">
+
 ### 2. Transport Management System
+
 **Tech Stack:** Python, MySQL
 
 - Developed a desktop application for transportation and trip management.
 - Automated trip creation and PDF trip-sheet generation.
 - Reduced manual data entry by 80% and achieved 100% billing accuracy.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 3. AptiGuard – Secure Aptitude Assessment & Proctoring System
+
 **Tech Stack:** ReactJS, TypeScript, NodeJS, ExpressJS, Firebase
 
 - Developed a web-based platform for scheduling and managing online aptitude assessments.
@@ -121,21 +136,42 @@ Hello! I'm **Nandeesh M N**, an MCA graduate from Hubballi, Karnataka, India.
 - Added fullscreen monitoring, tab-switch detection, violation warnings, and automatic test submission.
 - Built an administration dashboard for tests, students, and results.
 
+🔗 [Visit Live Website](https://apti-gaurd.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 4. College Website with Chatbot Portal
+
 **Tech Stack:** ReactJS, NodeJS, ExpressJS, MySQL
 
 - Developed a college website with an integrated chatbot for admissions, courses, fees, and placement enquiries.
 - Built a secure admin dashboard for managing chatbot responses and website advertisements.
 - Implemented backend APIs and database-driven content management.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 5. Vehicle Dent Detection
+
 **Tech Stack:** Python, Machine Learning, Image Processing
 
 - Developed an image-based vehicle dent detection system.
 - Classified vehicle images into dented and non-dented categories.
 - Applied image processing and deep learning techniques to automate visual damage assessment.
 
----
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects Coming Soon
+
+Continuously building practical applications and exploring modern software development technologies.
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Statistics
 
