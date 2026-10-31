@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Nandeesh M N**, an MCA graduate from Hubballi, Karnataka, India.
+Hello! I'm **Nandeesh M Narajji**, an MCA graduate from Hubballi, Karnataka, India.
 
 - 🎓 Completed my Master of Computer Applications (MCA).
 - 💻 Interested in full-stack web development and software engineering.
